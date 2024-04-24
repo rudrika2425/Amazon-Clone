@@ -1,2 +1,2 @@
 # Amazon-Clone
-Developed an Amazon clone using HTML, CSS, and JavaScript.
+Replicating the user interface of Amazon, this GitHub project is a comprehensive demonstration of front-end web development using HTML, CSS, and JavaScript. Through meticulous structuring with HTML, precise styling with CSS, and interactive functionalities crafted with JavaScript, the project mirrors the familiar layout and features of the renowned e-commerce platform. With attention to detail and responsiveness, this project aims to provide a hands-on learning experience for aspiring web developers looking to understand the intricacies of modern web design.
